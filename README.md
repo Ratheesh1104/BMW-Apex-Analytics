@@ -31,7 +31,10 @@ Welcome to **BMW Apex Analytics**, a data-driven Power BI dashboard tailored to 
 ---
 
 ## 🖼️ Dashboard Snapshot  
-![BMW Apex Analytics Dashboard](#)  
+ ![HomePage ScreenShot](https://github.com/user-attachments/assets/7d30e470-1c41-4532-bb4d-11117240f511)
+ ![Dashboard ScreenShot](https://github.com/user-attachments/assets/0999cd4f-976e-4d6c-aa91-b0dba5df5f48)
+
+
 *Caption: A dynamic view of BMW sales trends, regional performance, and model analytics.*
 
 ---
